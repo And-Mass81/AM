@@ -1,0 +1,29 @@
+.errorWrap{
+    min-height: calc(100vh - 142.38px);
+    display: flex;
+    justify-content: center;
+   
+  }
+
+  .errorAni{
+    background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 400px;
+    width:400px;
+    background-position: center;
+    margin: 0 auto;
+  }
+  
+  .textError{
+     font-size: 18px;
+     font-weight: bold;
+     color: #fff;
+     text-align: center;
+  }
+  
+  .textError h3{
+    font-size: 60px;
+    font-weight: bolder;
+    color: #1791b6;
+  }
