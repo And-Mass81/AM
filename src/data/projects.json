@@ -35,7 +35,7 @@
             
         },
          {
-            "cover":"/projects/sophie/sophie.webp",
+            "cover":"/projects/Sophie/sophie.webp",
             "title":"Sophie Bluel portfolio",
             "description":" Page Internet dynamique avec connexion administrateur (Formation OpenClassrooms).",
             "url":"https://github.com/And-Mass81/Portfolio-architecte-sophie-bluel",
@@ -46,7 +46,7 @@
             "button":"Code"
         },     
         {
-            "cover":"/projects/Performance/perf.webp",
+            "cover":"/projects/performance/perf.webp",
             "title":"Performance vélo",
             "description":" graphisme web, référencement, maintenance",
             "url":"https://performancevelo.com/",
