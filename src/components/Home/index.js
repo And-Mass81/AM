@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import AnimatLetters from '../AnimatedLetters/index';
 import logoS from  '../../assets/images/logoOpt.png';
 import Loader from 'react-loaders';
+import Pdf from  '../../assets/images/cvMassa.pdf';
 
 
 
@@ -57,7 +58,10 @@ const Home = () => {
           />
         </h1>
         <h2>Frontend / React / Webdesign</h2>
+        <div>
         <Link to="/contact" className='flat-button'>ME CONTACTER</Link>
+        <Link to={Pdf} target="_blank" className='flat-button cv'>VOIR MON CV</Link>
+        </div>
       </div>
       <div className='logo-container'>
             <img className='solid-logo' src={logoS}  alt='logo AM'/>
