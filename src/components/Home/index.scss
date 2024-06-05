@@ -68,6 +68,17 @@ h2 {
     }
 }
 
+.cv{
+  color: #EF3D5B ;
+  padding: 10px 18.5px;
+  margin-left: 20px;
+
+  &:hover{
+    background: #61BFD3 ;
+    color: #fff;
+}
+}
+
 .word-block{
   display: block;
   padding: 0;
@@ -127,7 +138,7 @@ h2 {
       right: 0;
       box-sizing: border-box;
       margin: auto;
-      left: 0;
+      left: -5px;
     }
 
     .logo-container img {
