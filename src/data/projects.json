@@ -1,5 +1,16 @@
 {
     "project":[
+         {
+            "cover":"/projects/instagrim/instagrim.jpg",
+            "title":"instagrim",
+            "description":" Clone Instagram avec base de données dans Firebase et deploy dans Vercel",
+            "url":"https://insta-grim.vercel.app",
+            "iconA":"/projects/skills/reactLogo.svg",
+            "iconB":"/projects/skills/ReduxL.svg",
+            "iconC":"/projects/skills/Vitej.svg",
+            "iconD":"/projects/skills/swagger.svg",
+            "button":"App"
+        },
         {
             "cover":"/projects/ArgentBank/argent.png",
             "title":"Argent Bank",
