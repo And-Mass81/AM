@@ -1,6 +1,15 @@
 {
     "project":[
          {
+            "cover":"/projects/Google/Google.jpg",
+            "title":"Case Studies",
+            "description":"Three projects where I applied skills and methodologies learned during my UX training",
+            "url":"https://sites.google.com/view/am-ux-portfolio/home",
+            "iconA":"/projects/skills/Figma.svg",
+			"iconB":"/projects/skills/gicon.png",
+            "button":"Case Studies"
+        },
+         {
             "cover":"/projects/instagrim/instagrim.jpg",
             "title":"instagrim",
             "description":" Clone Instagram avec base de données dans Firebase et deploy dans Vercel",
