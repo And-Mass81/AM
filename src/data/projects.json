@@ -6,9 +6,11 @@
             "description":"Three projects where I applied skills and methodologies learned during my UX training",
             "url":"https://sites.google.com/view/am-ux-portfolio/home",
             "iconA":"/projects/skills/Figma.svg",
-			"iconB":"/projects/skills/gicon.png",
+	    "iconB":"/projects/skills/gicon.png",
+	    "iconC":"/projects/skills/htmlL.svg",
+            "iconD":"/projects/skills/cssL.svg", 
             "button":"Case Studies"
-        },
+         },
          {
             "cover":"/projects/instagrim/instagrim.jpg",
             "title":"instagrim",
