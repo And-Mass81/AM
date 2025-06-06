@@ -108,13 +108,13 @@
         {
             "cover":"/projects/Graphisme/aka.webp",
             "title":"Graphisme web",
-            "description":"Création de logo, charte graphique, graphisme web",
-            "url":"https://www.pinterest.fr/andmass10/graphisme-web/",
+            "description":"Création de logo, charte graphique, graphisme web, site web",
+            "url":"https://akamondojo.fr/",
             "iconA":"/projects/skills/wordpressL.svg",
             "iconB":"/projects/skills/htmlL.svg",
             "iconC":"/projects/skills/cssL.svg",
             "iconD":"/projects/skills/Figma.svg",
-            "button":"Voir"
+            "button":"site"
             
         }
     ]
